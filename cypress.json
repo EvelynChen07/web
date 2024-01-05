@@ -1,9 +1,0 @@
-{
-  "pluginsFile": "tests/e2e/plugins/index.js",
-  "env": {
-    "CLIENT_ROOT": "http://localhost:8080",
-    "SERVER_ROOT": "http://localhost:3000"
-  },
-  "baseUrl": "http://localhost:8080",
-  "videoCompression": 0
-}
